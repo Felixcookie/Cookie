@@ -1,0 +1,3 @@
+# [USERNAME]---[md5(USERNAME-PASSWORD)]
+# Example User | USERNAME: username PASSWORD: password
+[username]---[277dad816d38c815b1cdf0ba1f74da30]
